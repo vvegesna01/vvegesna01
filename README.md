@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+###I'm Keerthana, a senior at Purdue University studying Computer Science.
+
+I am passionate about solving complex problems through software development and leveraging data to drive insights. 
+
+I am driven by a curiosity to explore new technologies and find innovative solutions and am excited to continue my journey in computer science, constantly learning and growing.
+
 
 ### Contact Information
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvegesna01@purdue.edu)
