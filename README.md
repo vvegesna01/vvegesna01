@@ -1,7 +1,6 @@
 ### Hi there 👋
-![kv_github_cover](https://github.com/vvegesna01/vvegesna01/assets/59417081/4f41e2a1-87e7-4c03-948e-306f31d2d64f)
 
-I'm a senior at **Purdue University** studying Computer Science.
+I'm **Keerthana** a senior at **Purdue University** studying Computer Science.
 
 I am passionate about solving complex problems through software development and leveraging data to drive insights. 
 
