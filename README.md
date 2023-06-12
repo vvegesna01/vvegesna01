@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Keerthana** a senior at **Purdue University** studying Computer Science.
+I'm **Keerthana**, a senior at **Purdue University** studying Computer Science.
 
 I am passionate about solving complex problems through software development and leveraging data to drive insights. 
 
