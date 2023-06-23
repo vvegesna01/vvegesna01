@@ -4,7 +4,7 @@ I'm **Keerthana**, a senior at **Purdue University** studying Computer Science.
 
 I am passionate about solving complex problems through software development and leveraging data to drive insights. I am driven by a curiosity to explore new technologies and find innovative solutions and am excited to continue my journey in computer science, constantly learning and growing.
 
-Check out my most recent project! [The Taylor Swift Era's Tour Tracker Website](https://eras-tour-tracker.vercel.app/). As the international dates are being added the website will be updated too!
+Check out my most recent project! [The Taylor Swift Era's Tour Tracker](https://eras-tour-tracker.vercel.app/). As the international dates are being added the website will be updated too!
 
 
 I have been a *Software Engineering Intern* at **Cummins, Inc** and have been an *Undergraduate Teaching Assistant* for **The Data Mine** and for the *CS Bridge Program* at Purdue.
