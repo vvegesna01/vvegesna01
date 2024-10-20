@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 I'm **Keerthana**, a *Software Engineer*, and a *Web Developer* at the **Purdue John Martinson Honors College**.
 
