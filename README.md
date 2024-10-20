@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Keerthana**, a Web Developer at the Purdue John Martinson Honors College.
+I'm **Keerthana**, a *Software Engineer*, and a *Web Developer* at the **Purdue John Martinson Honors College**.
 
 I have experience with cloud technologies, front-end development, full-stack, and data-driven research. I'm still early in my career so I'm always learning new technologies and growing!
 
