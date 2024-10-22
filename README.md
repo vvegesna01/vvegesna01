@@ -4,7 +4,7 @@ I'm **Keerthana**, a *Software Engineer*, and a *Web Developer* at the **Purdue 
 
 I have experience with cloud technologies, front-end development, full-stack, and data-driven research. I'm still early in my career so I'm always learning new technologies and growing!
 
-Check out my most recent project: [Shelf This - A Reading Dashboard](https://shelfthis.streamlit.app/). The next update will generate a cool dashboard from your own imported goodreads/storygraph data!
+Check out my most recent project: [Shelf This - A Reading Dashboard](https://shelfthis.streamlit.app/). The next update will generate the dashboard from your own imported goodreads/storygraph data!
 
 I have been a *Software Engineering Intern* at **Cummins, Inc** and  an *Undergraduate Teaching Assistant* for **The Data Mine**, and *CS Bridge Program* at Purdue.
 
